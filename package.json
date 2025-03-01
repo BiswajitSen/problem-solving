@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "name": "problem-solving",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BiswajitSen/problem-solving.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BiswajitSen/problem-solving/issues"
+  },
+  "homepage": "https://github.com/BiswajitSen/problem-solving#readme",
+  "description": ""
+}
